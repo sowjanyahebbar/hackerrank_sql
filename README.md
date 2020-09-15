@@ -1,2 +1,2 @@
 # hackerrank_sql
-My solution for hackerrank-sql chalange.
+My solution for hackerrank-sql challanges.
